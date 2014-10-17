@@ -1,5 +1,6 @@
 MANIFEST.in
 README.rst
+setup.cfg
 setup.py
 bin/qingcloud
 bin/qingcloud.cmd
@@ -174,6 +175,10 @@ qingcloud/cli/iaas_client/actions/sg/modify_security_group_attributes.py
 qingcloud/cli/iaas_client/actions/sg/modify_security_group_attributes.pyc
 qingcloud/cli/iaas_client/actions/sg/modify_security_group_rule_attributes.py
 qingcloud/cli/iaas_client/actions/sg/modify_security_group_rule_attributes.pyc
+qingcloud/cli/iaas_client/actions/snapshot/__init__.py
+qingcloud/cli/iaas_client/actions/snapshot/create_snapshots.py
+qingcloud/cli/iaas_client/actions/snapshot/delete_snapshots.py
+qingcloud/cli/iaas_client/actions/snapshot/describe_snapshots.py
 qingcloud/cli/iaas_client/actions/volume/__init__.py
 qingcloud/cli/iaas_client/actions/volume/__init__.pyc
 qingcloud/cli/iaas_client/actions/volume/attach_volumes.py
