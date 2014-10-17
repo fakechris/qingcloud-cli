@@ -10,6 +10,13 @@ qingcloud-cli 是 `QingCloud 青云 <https://www.qingcloud.com>`_ 的命令行�
 
 
 ------------
+定制cli安装
+------------
+sudo pip install qingcloud-cli
+git clone https://github.com/fakechris/qingcloud-cli.git
+cd qingcloud-cli; sudo python setup.py install
+
+------------
 Installation
 ------------
 
